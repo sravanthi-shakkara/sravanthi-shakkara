@@ -1,5 +1,14 @@
 # 💫 About Me:
-Innovative and results-driven Software Engineer with 1+ years of experience in designing scalable, high-performance solutions using Java, Spring Boot, and microservices architecture. Proficient in developing and deploying cloud-based applications on Azure, AWS, and through CI/CD pipelines, with expertise in Agile methodologies and test-driven development (TDD). Skilled at fostering cross-functional collaboration, optimizing performance, and delivering customer-focused products that meet rigorous quality standards.
+
+Backend Software Engineer with 2+ years of experience building 
+scalable distributed systems and microservices.
+
+- 🏢 Java + Spring Boot specialist
+- 🤖 Currently building an **AI Agent Platform** — autonomous task execution using LLMs, Redis queues, and browser automation
+- ☁️ Experienced with AWS, Docker, Kubernetes, and CI/CD pipelines
+- 🔧 Passionate about backend architecture, API design, and system performance
+- 📍 Hyderabad, India
+- 📫 shakkarasravanthi55@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,8 +24,7 @@ Innovative and results-driven Software Engineer with 1+ years of experience in d
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sravanthi-shakkara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sravanthi-shakkara&icon=0&color=0)](https://visitcount.itsvg.in)
